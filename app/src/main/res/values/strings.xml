@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Portfolio Digital</string>
+    <string name="whatsapp">whatsapp</string>
+    <string name="github">github</string>
+    <string name="linkedin">github</string>
+    <string name="gmail">gmail</string>
+    <string name="todo">todo</string>
+    <string name="experiencias">experiencias</string>
+    <string name="Meus_Tributos">Meus Tributos</string>
+    <string name="meu_portfolio">Meu Portfolio</string>
+</resources>
