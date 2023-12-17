@@ -5,7 +5,7 @@
 
 ## Introdução
 
-O aplicativo "Portfolio Digital" permite aos usuários acessarem informações sobre o desenvolvedor Gerleidson Bomfim, incluindo detalhes de contato e links para suas redes sociais e projetos. Além disso, o aplicativo oferece acesso a seções específicas, como informações sobre o desenvolvedor, projetos, cursos e experiências.
+O aplicativo permite aos usuários acessarem informações sobre o desenvolvedor Gerleidson Bomfim, incluindo detalhes de contato e links para suas redes sociais e projetos. Além disso, o aplicativo oferece acesso a seções específicas, como informações sobre o desenvolvedor, projetos, cursos e experiências.
 
 ## Requisitos do Sistema
 
