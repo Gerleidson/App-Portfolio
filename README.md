@@ -1,8 +1,3 @@
-# Documentação do Aplicativo Portfolio Digital
-
-![tela](https://github.com/Gerleidson/Portfolio/assets/88213553/57017cb7-7d1c-4d16-b1d1-6530fdac44fd)
-
-
 ## Introdução
 
 O aplicativo permite aos usuários acessarem informações sobre o desenvolvedor Gerleidson Bomfim, incluindo detalhes de contato e links para suas redes sociais e projetos. Além disso, o aplicativo oferece acesso a seções específicas, como informações sobre o desenvolvedor, projetos, cursos e experiências.
